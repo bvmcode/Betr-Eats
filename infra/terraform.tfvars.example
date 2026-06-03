@@ -1,0 +1,14 @@
+aws_region = "us-east-1"
+
+# Restrict access in non-dev environments.
+# allowed_cidr_blocks = ["203.0.113.10/32"]
+# streamlit_allowed_cidr_blocks = ["203.0.113.10/32"]
+# publicly_accessible = false
+
+# Streamlit ECS service (requires publicly_accessible = true for a task public IP).
+# hf_token = "your_huggingface_token_here"
+
+# Use an existing VPC instead of creating one:
+# create_networking = false
+# vpc_id            = "vpc-0123456789abcdef0"
+# subnet_ids        = ["subnet-aaa", "subnet-bbb"]
