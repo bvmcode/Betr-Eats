@@ -1,6 +1,6 @@
 # Betr Eats
 
-A mostly non vibe coded app other than the boring stuff, like this README. A fun personal project that is helping me lose weight and allowed me to write a full stack agentic application.
+A mostly non vibe coded app (other than the boring stuff like this README!). A fun personal project that is helping me lose weight and allowed me to write a full stack agentic application.
 
 Betr Eats is a personal nutrition and weight-loss companion. You log meals, weight, exercise, and goals in PostgreSQL, chat with an AI assistant to estimate calories and record entries, and generate LLM-written progress summaries over flexible time ranges.
 
